@@ -37,7 +37,7 @@ h3 {
     position: absolute;
     width: 100%;
     height: 44px;
-    background-image: url("line-water-waves-png-removebg-preview.png");
+    background-image: url("./line-water-waves-png-removebg-preview.png");
     top: -44px;
     animation: wavy 0.5s linear infinite;
 }
